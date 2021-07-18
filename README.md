@@ -10,3 +10,5 @@ Perfrom fake news classifier using deep learning techniques.
 Pre-processing on dataset are used to clean the data.
 Then a fake news detection model is built using LSTM
 
+# Dataset
+The dataset is taken from Kaggle. The data consists of 804 rows and 7 columns.
