@@ -15,7 +15,10 @@ Perfrom fake news classifier using deep learning techniques.
    5. Next, words are joined together and stored in the corpus.
 
 2) Then a fake news detection model is built using LSTM
-3) Then Check the accuracy of the model.
+   1. loss='binary_crossentropy
+   2. optimizer='adam'
+   3. activation='sigmoid'
+4) Then Check the accuracy of the model.
 
 # Dataset
 The dataset is taken from Kaggle. The data consists of 804 rows and 7 columns.
